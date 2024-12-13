@@ -1,0 +1,15 @@
+# Entorno virtual
+venv/
+
+# Archivos de configuración de Python
+*.pyc
+__pycache__/
+
+# Configuración específica de IDE
+.vscode/
+
+# Node.js
+node_modules/
+
+# Otros
+.env
